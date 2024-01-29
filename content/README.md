@@ -147,7 +147,7 @@ shortTitle: Contributing to projects
 - Type: `String`
 - Optional.
 
-### `layout`
+### `layout` 
 
 - Purpose: Render the proper page layout.
 - Type: `String` that matches the name of the layout.
