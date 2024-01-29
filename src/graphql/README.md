@@ -1,5 +1,5 @@
 # GraphQL
-
+ 
 ## About this directory
 
 * `src/graphql/lib` and `src/graphql/scripts` are human-editable.
