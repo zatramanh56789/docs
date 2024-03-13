@@ -12,7 +12,7 @@ Subjects do not need every element below. Not every element needs to be a folder
 
 ```
 src/
-  xsubject/
+  xsubject/ 
     README.md
     docs/
     lib/
