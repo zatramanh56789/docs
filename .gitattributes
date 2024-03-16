@@ -3,4 +3,4 @@
 # Explicitly declare text files we want to always be normalized and converted
 # to native line endings on checkout.
 *.md text diff=markdown
-*.json.br filter=lfs diff=lfs merge=lfs -text
+*.json.br filter=lfs diff=lfs merge=lfs -text 
