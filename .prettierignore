@@ -1,4 +1,4 @@
-data/release-notes/
+data/release-notes/ 
 src/bookmarklets/
 src/open-source/scripts/add-pr-links.js
 /.next/
